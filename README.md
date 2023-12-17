@@ -1,0 +1,1 @@
+Docker hub image link: https://hub.docker.com/repository/docker/gabrieljayme/fullcycle/general
